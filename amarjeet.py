@@ -1,6 +1,3 @@
-# Bytecode version: 3.11a7e (3495)
-
-
 from platform import system
 import sys
 import os
